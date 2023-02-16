@@ -6,6 +6,9 @@ and calculates the total cost of the order.
 
 **!Unfortunately I wasn't able to pair up with someone else which is why I am submitting this alone. I am sorry for the inconvenience.!**
 
+### GitHub Repository:
+https://github.com/Zapplightforce/PizzaOrderingSystem
+
 ## How to Run
 To run the program, navigate to the root directory of the project and compile the source 
 files using the following command:
